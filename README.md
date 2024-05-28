@@ -11,7 +11,8 @@
 * [Example Results](#example-results)
 * [Conclusion](#conclusion)
 
-Detailed report of the project is available at [here](https://github.com/shruthipv96/FashionAI/blob/main/FashionAI_Doc.pdf).
+> - Detailed report of the project is available at [here](https://github.com/shruthipv96/FashionAI/blob/main/FashionAI_Doc.pdf).
+> - In case, you are not able to download the chroma db and dataset from the git lfs repo, the same content is available in this [drive](https://drive.google.com/drive/folders/1uKC0lkA-xBcDe-vJ7UbfKi71l9zIKOcy?usp=drive_link) location. Dataset is also available in the link provided in the following section.
 
 ## Dataset
 The dataset used for this project is [Myntra Fashion Product Dataset (kaggle.com)](https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset). It includes thousands of fashion products, each with detailed information such as description, price, rating, brand name, and other attributes.
