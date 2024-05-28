@@ -45,10 +45,10 @@ Feel free to experiment with different queries and explore different aspects of 
 
 ## Example Results
 From Semantic search with reranking layer,
-![Query1_SearchLayer](https://github.com/shruthipv96/FashionAI/assets/32814013/ec9882e8-9ac5-4d5b-89e5-45363e5641bc)
+![Query3_SearchLayer](https://github.com/shruthipv96/FashionAI/assets/32814013/0e2814bf-8318-4cc4-b18a-a47c5f495a27)
 
 From Generative search final layer,
-![Query1_GenerativeSearch](https://github.com/shruthipv96/FashionAI/assets/32814013/3501aa31-443c-4c7c-b992-200f821c32e5)
+![Query3_GenerativeSearch](https://github.com/shruthipv96/FashionAI/assets/32814013/7701b2b3-ecde-439d-9d10-e5ad91e7e7c8)
 
 ## Conclusion
 Finally, with the function GenerativeSearch(), user can input a query to fetch a product from the vast database using natural language.
