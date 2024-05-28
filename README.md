@@ -16,14 +16,15 @@ Detailed report of the project is available at [here](https://github.com/shruthi
 ## Dataset
 The dataset used for this project is [Myntra Fashion Product Dataset (kaggle.com)](https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset). It includes thousands of fashion products, each with detailed information such as description, price, rating, brand name, and other attributes.
 The dataset is organized in 'dataset/' folder as follows:
-* Fashion Dataset v2.csv: This CSV file contains each product in a row, with various details spread across columns.
-* Image Folder: This folder contains two zip folders. Extract all the images and place into this image folder. Then, this folder contains sample images for each product. Each image file is named according to the corresponding product's 'p_id' value from the CSV.
+* _Fashion Dataset v2.csv_: This CSV file contains each product in a row, with various details spread across columns.
+* _Image Folder_: This folder contains two zip folders. Extract all the images and place into this image folder. Then, this folder contains sample images for each product. Each image file is named according to the corresponding product's 'p_id' value from the CSV.
 
 ## Steps to Run the Project 
 To experiment with the search tool, follow these steps:
 1. _Open the Jupyter Notebook_: Ensure you have the Jupyter Notebook for this project open and run all the cells for the first time after launch.
-2. _Navigate to the Playground Section_: Scroll to the end of the notebook until you find the section titled "Playground" or jump from the Table of Contents.
-3. _Interact with the Search Tool_: In this section, you can test and experiment with the search tool. You can input various user queries to see how the system retrieves and recommends fashion products based on the descriptions, prices, ratings, brand names, and other attributes from the dataset.
+**You can skip the cell with the comment “Add documents to the collection with a tqdm progress bar.” in section 1.2 under heading “Build Chroma Store” in case you already have the chroma db downloaded.**
+3. _Navigate to the Playground Section_: Scroll to the end of the notebook until you find the section titled "Playground" or jump from the Table of Contents.
+4. _Interact with the Search Tool_: In this section, you can test and experiment with the search tool. You can input various user queries to see how the system retrieves and recommends fashion products based on the descriptions, prices, ratings, brand names, and other attributes from the dataset.
 In this section, two cells are provided to experiment with Semantic Search and Generative Search.
  
  ![image](https://github.com/shruthipv96/FashionAI/assets/32814013/e32f0557-07ef-447b-b8aa-a745f1f7e351)
