@@ -1,4 +1,4 @@
-# Chef GPT
+# Fashion AI
 ---
 > A Generative Search System which can understand a user's query and recommend the most suitable fashion items based on their preferences from a vast collection of product data.
 ---
